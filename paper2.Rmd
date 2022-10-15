@@ -1,6 +1,6 @@
 ---
-title: "Title TBD"
-author: "J. Hillert"
+title: "Volatiles and Predators"
+author: "J. Ted Hillert"
 date: "`r Sys.Date()`"
 output:
   bookdown::word_document2:
@@ -33,6 +33,17 @@ options(knitr.kable.NA = "")
 ```
 
 #
+
+Evidence of vertebrate dispersal mechanisms in the fossil record is often unclear and occasionally rudimentary, but according to results from @tiff.2004 suggest that plant morphological features have evolved to favor vertebrate dispersal as early as the Pennsylvanian. Herbivore diversification and subsequent dominance of vertebrate dispersal, along with establishment of specific vertebrate-plant associations occurred in the Permian period and Mesozoic era, respectively. Later diversification of small mammals and birds established the basis for widespread occurrence of vertebrate dispersal. Based on this study fruit dispersal mechanisms have been able to evolve through the last two eras, however fruits still have limitations and tradeoffs to predation and herbivory. Volatile compounds are present in over 50 species of plants and are emitted following tissue damage that can be distinguished and specific to herbivore enemy diet requirements [@clav.2012]. Despite the length of time plants have evolved fruit dispersal mechanisms, they are still susceptible to the antagonistic effects of predation. Especially in isolated ecosystems where invasive predators have disrupted the fruit-frugivore dispersal mechanism [@roge.2017]. 
+
+#
+
+Damage of plant stem, leaves or fruit by herbivores can cause the emission of volatile compounds from the plant as a defense mechanism from further predation and as a chemical cue to nearby herbivore enemies. @clav.2012 showed that plant volatile blends provide herbivore enemies with information on the health of the plant, their prey and its feeding guilds, presence of other herbivores or pathogens. In this study, herbivore enemies - arthropods and parasitoids - are even able to differentiate between phenological states, species of plant, plant cultivars, and plant varieties based on the blend of volatile compounds emitted. This study is evidence of a co-opted mutualism between vegetation and herbivore enemies, in which, the plant benefits from less predation by herbivores at the expense of not being selected or greater damage by larger herbivore enemies. The herbivore enemies benefit thro
+ugh a reliable source of prey and a host plant at little to no cost to themselves.  Although this mutualism can be more beneficial than costly, @clav.2012 ultimately found the efficiency of the volatile blend to attract enemies is limited by enemy choice and diet. Thus imposing a trade-off between survival needs of the plant and the nutritional needs of the herbivore enemy leading to mutualism.
+
+#
+
+Invasive species are a common occurrence in todays world and the biodiversity ramifications are often overlooked, such as the invasive predator disruption of a fruit-frugivore dispersal mechanism on the island of Guam. The introduction of the brown treesnake (*Bliga irregularis*) on the island has caused the extirpation of 10 of 12 of the native bird species and functionally extirpated the remaining two species [@roge.2017]. This extirpation has negatively affected the fruit-frugivore dispersal mechanism of two tree species on Guam in contrast to three nearby islands with intact bird and tree populations and an absence of invasive predators. In this study predation disrupts the fruit-frugivore dispersal mutualism by decreasing germination success and species distribution of the tree species. This scenario there is a tradeoff between an invasive predator and a fruit-frugivore dispersal mechanism, in the previous it was the efficiency of volatile blends to illicit rescue by herbivore enemies. In either case the coevolutionary interactions between them are an ongoing process presenting many avenues for research. In the former scenario more research can be down on enemy behaviors in response to volatile blends with a background of other odors. In the latter scenario, more research could be done towards species restoration through invasive species management.
 
 
 # References
